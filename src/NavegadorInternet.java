@@ -1,0 +1,4 @@
+
+interface NavegadorInternet {
+    void abrirNavegador();
+}
